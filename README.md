@@ -1,0 +1,1 @@
+# SDRSharp.BandPlan.Updater
